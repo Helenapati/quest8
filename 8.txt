@@ -1,0 +1,11 @@
+public class{
+   public static void main(String[] args){
+    Loop{
+    F0 = 0;  
+    F1 = 1;
+    F2 = F0 + F1;
+        System.out.println("Os números serão: " + F2); 
+        }
+    
+    }
+}
